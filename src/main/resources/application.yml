@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/micro-blog
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+
+  jpa:
+    properties:
+      hibernate:
+        jdbc:
+          batch_size: 10
+        default_batch_fetch_size: 100
+
+
+logging:
+  level:
+    org :
+      hibernate :
+        SQL: debug
