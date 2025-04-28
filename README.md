@@ -1,5 +1,6 @@
-# Jdbc를 이용한 Mirco blog에서 Jpa로 변환하기(branches 확인)
-> 기술스택: Java17, Spring boot3, Spring Data Jpa, Jdbc, MySQL, Thymeleaf
+# Jdbc를 이용한 Mirco blog에서 Jpa로 변환하기(branches 분리)
+
+## 구성 환경: Java17, Spring boot3, Spring Data Jpa, Jdbc, MySQL, Thymeleaf
 
 ## MySQL 실행
 ```Shell
