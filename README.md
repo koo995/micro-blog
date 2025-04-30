@@ -1,6 +1,6 @@
 # Mirco blog Jdbc to Jpa(branches 분리)
 
-## 구성 환경: Java17, Spring boot3, Spring Data Jpa, Jdbc, MySQL, Thymeleaf
+> 구성 환경: Java17, Spring boot3, Spring Data Jpa, Jdbc, MySQL, Thymeleaf
 
 ## MySQL 실행
 ```Shell
